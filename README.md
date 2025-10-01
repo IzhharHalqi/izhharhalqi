@@ -4,8 +4,7 @@ This is my personal website where I showcase my portfolio and blog about web dev
 
 ## Links
 
-- [My Portfolio](https://myportfolio.com)
-- [UI/UX Design Resources](https://www.figma.com/proto/7OmPXB3dcAKQdsJNBS9q4R/Untitled?node-id=1-2&t=V8PIPE1cssCDc0SD-1)
+- [My Portofolio](https://www.figma.com/proto/7OmPXB3dcAKQdsJNBS9q4R/Untitled?node-id=1-2&t=V8PIPE1cssCDc0SD-1)
 
 ## Social Media
 
