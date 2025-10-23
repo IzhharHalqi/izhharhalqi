@@ -1,55 +1,69 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>PROJECT</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="stylecss/style3.css" />
   </head>
   <body>
-    <header>
-      <nav>
+    <!-- Navbar -->
+    <header class="navbar">
+      <div class="container nav-container">
         <ul class="nav-links">
-          <li><a href="index.html">home</a></li>
-          <li><a href="about.html">about</a></li>
-          <li><a href="projects.html">project</a></li>
-          <li><a href="editing.html">Editing Video</a></li>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="projects.html">Project</a></li>
+          <li><a href="editing.html" class="active">Video Editing</a></li>
         </ul>
-      </nav>
+      </div>
     </header>
 
-    <!-- Projects -->
-    <section class="projects-section">
-      <h1>My Projects</h1>
+    <!-- Header Section -->
+    <header class="header">
+      <div class="subtitle">THE SELECTED OF</div>
+      <h1 class="title">PROJECT</h1>
+    </header>
 
-      <div class="cards">
-        <!-- Card 1 -->
-        <div class="card">
-          <img src="assets/e-campus.png" alt="gambar Contoh Project" />
-          <div class="card-body">
-            <h1>#Contoh project September-26-2025</h1>
-            <p>React-React-React-React-React</p>
-          </div>
-        </div>
-
-        <!-- Card 2 -->
-        <div class="card">
-          <img src="assets/google-sites.png" alt="gambar Contoh Project" />
-          <div class="card-body">
-            <h1>#Contoh project September-26-2025</h1>
-            <p>React-React-React-React-React</p>
-          </div>
-        </div>
-
-        <!-- Card 3 -->
-        <div class="card">
-          <img src="assets/coclify.png" alt="gambar Contoh Project" />
-          <div class="card-body">
-            <h1>#Contoh project September-26-2025555555555</h1>
-            <p>React-React-React-React-React</p>
-          </div>
-        </div>
+    <!-- Portfolio Grid -->
+    <section class="portfolio-wrap">
+      <div class="grid">
+        <a class="grid-item a" href="#">
+          <img src="assets/kalkulator1.png" alt="mountain" />
+        </a>
+        <a class="grid-item c" href="#">
+          <img src="assets/kalkulator1.png" alt="ridge" />
+        </a>
+        <a class="grid-item f" href="#">
+          <img src="assets/kalkulator1.png" alt="hand with flowers" />
+        </a>
+        <a class="grid-item b" href="#">
+          <img src="assets/kalkulator1.png" alt="grass" />
+        </a>
+        <a class="grid-item d" href="#">
+          <img src="assets/kalkulator1.png" alt="reflection" />
+        </a>
+        <a class="grid-item g" href="#">
+          <img src="assets/kalkulator1.png" alt="waterfall" />
+        </a>
+        <a class="grid-item" style="grid-column: 1; grid-row: span 1" href="#">
+          <img src="assets/kalkulator1.png" alt="path" />
+        </a>
+        <a class="grid-item portrait" href="#">
+          <img src="assets/kalkulator1.png" alt="portrait older man" />
+        </a>
+        <a class="grid-item h" href="#">
+          <img src="assets/kalkulator1.png" alt="lighthouse" />
+        </a>
       </div>
-        
+
+      <!-- Load More Button -->
+      <div class="loadmore-wrap">
+        <a class="btn" href="#">LOAD MORE</a>
+      </div>
     </section>
   </body>
 </html>
