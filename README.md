@@ -34,7 +34,7 @@ Some of the projects I have recently created include a calculator application fo
 
 - [GitHub](https://github.com)
 - [LinkedIn](https://linkedin.com)
-- [email] (izharhalqi777@gmail.com)
+- [email](izharhalqi777@gmail.com)
 
 ## Technologies Used
 
