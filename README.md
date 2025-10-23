@@ -15,31 +15,33 @@ This is my personal website where I showcase my portfolio and blog about web dev
 ## Pages
 
 - Home
-- AboutMe
 - Project
-- Contact
+- Editing Video
 
 ## Home
 
-coba
-
-## AboutMe
-
-coba
+"I believe technology can help solve everyday problems. As an
+Information Systems student at MH Thamrin University, I am interested
+in data analysis, web development, and information systems management.
+I have problem-solving skills and enjoy collaborating to create
+innovative solutions."
 
 ## Project
 
-coba
+Some of the projects I have recently created include a calculator application for Android, a game top-up website, and an application for storing student data.
 
 ## Contact
 
-coba
+- [GitHub](https://github.com)
+- [LinkedIn](https://linkedin.com)
+- [email] (izharhalqi777@gmail.com)
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+- sql
 
 ## Preview
 
